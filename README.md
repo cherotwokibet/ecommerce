@@ -1,5 +1,5 @@
 # ecommerce
-E-commerce backend 
+E-commerce backend built by nodejs,mongodb and express
 
-#install
+## install
 Run *npm i*
